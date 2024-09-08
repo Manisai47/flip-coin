@@ -1,1 +1,1 @@
-flip coin game
+flip the coin
